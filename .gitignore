@@ -1,6 +1,17 @@
 # Prerequisites
 *.d
 
+# VS Code settings
+.vscode/
+
+# build
+build/
+bin/
+
+# GBA File
+*.GBA
+*.elf
+
 # Compiled Object files
 *.slo
 *.lo
